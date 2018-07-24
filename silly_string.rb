@@ -1,7 +1,7 @@
 
 # Challenge 1: Fill this string in with your favorite word
 
-your_favorite_word = ""
+your_favorite_word = "morena"
 
 puts "My favorite word is #{your_favorite_word}"
 
@@ -49,3 +49,14 @@ sentence = "Astounding aardvarks, arguably an ancient animal, always ate apples 
 sentence = sentence # Add your gsub chain here
 
 puts sentence
+
+
+puts "morena" 
+puts "morena".upcase 
+puts"IM NOT SHOUTING".downcase
+puts"supercalifragilisticexpialidocious".length 
+puts "wow"+"mom"
+puts"i really like programming".capitalize
+puts "Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens".downcase.gsub("a", "o")
+
+
